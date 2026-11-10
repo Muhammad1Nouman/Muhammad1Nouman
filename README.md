@@ -9,7 +9,7 @@
 -   Full-Stack Development: React, Node.js, Express, MongoDB (MERN), REST APIs, JWT/Passport authentication, and serverless backends on AWS Lambda and Amplify.
 -   Data Visualization: Creating interactive dashboards and reports using Power BI, Apache Superset, and Looker Studio.
 -   Experience: Petabyte-scale e-commerce and advertising data for Fortune 500 CPG brands, Amazon/eBay/Shopify data pipelines into BigQuery, and Azure + Databricks + Power BI platforms for SaaS and enterprise clients.
--   Upwork: Top Rated Plus, $400K+ earned across 85+ projects.
+-   Upwork: Top Rated Plus, $500K+ earned across 85+ projects.
 -   Languages: Fluent in English and Urdu
 
 -   Hi !!!
